@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_refresh.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_home.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\home.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_back.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_offline.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\offline.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_home.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_icon.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_offline.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\offline.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_offline.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\offline.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_offline.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\offline.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_close.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_refresh.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_home.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_back.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_refresh.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_forward.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_back.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_offline.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\offline.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_home.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_refresh.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_forward.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_close.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_close.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_refresh.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_forward.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_offline.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\offline.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xhdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_refresh.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_back.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_forward.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_close.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_close.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\close.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_forward.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_offline.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\offline.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_forward.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_home.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_close.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_forward.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\forward.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_home.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_back.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_back.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_forward.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_close.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\close.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_home.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_refresh.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_home.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_back.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_refresh.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_back.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_close.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_screen.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_offline.png.flat",
+        "source": "C:\\work\\cordova\\usercenter\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\offline.png"
+    }
+]
